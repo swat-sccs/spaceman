@@ -1,0 +1,1113 @@
+.box {
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.box .group {
+  height: 1080px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.box .overlap {
+  height: 980px;
+  left: 300px;
+  position: absolute;
+  top: 100px;
+  width: 1650px;
+}
+
+.box .middle {
+  height: 980px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1184px;
+}
+
+.box .overlap-group {
+  height: 981px;
+  left: -4px;
+  position: relative;
+  top: -1px;
+  width: 1128px;
+}
+
+.box .ellipse {
+  height: 32px;
+  left: 549px;
+  position: absolute;
+  top: 808px;
+  width: 32px;
+}
+
+.box .rectangle {
+  height: 980px;
+  left: 4px;
+  position: absolute;
+  top: 1px;
+  width: 1120px;
+}
+
+.box .img {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1128px;
+}
+
+.box .line {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 101px;
+  width: 1120px;
+}
+
+.box .line-2 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 151px;
+  width: 1120px;
+}
+
+.box .line-3 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 201px;
+  width: 1120px;
+}
+
+.box .line-4 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 250px;
+  width: 1120px;
+}
+
+.box .line-5 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 300px;
+  width: 1120px;
+}
+
+.box .line-6 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 350px;
+  width: 1120px;
+}
+
+.box .line-7 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 400px;
+  width: 1120px;
+}
+
+.box .line-8 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 450px;
+  width: 1120px;
+}
+
+.box .line-9 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 500px;
+  width: 1120px;
+}
+
+.box .line-10 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 550px;
+  width: 1120px;
+}
+
+.box .line-11 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 600px;
+  width: 1120px;
+}
+
+.box .line-12 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 650px;
+  width: 1120px;
+}
+
+.box .line-13 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 700px;
+  width: 1120px;
+}
+
+.box .line-14 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 749px;
+  width: 1120px;
+}
+
+.box .line-15 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 799px;
+  width: 1120px;
+}
+
+.box .line-16 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 849px;
+  width: 1120px;
+}
+
+.box .line-17 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 899px;
+  width: 1120px;
+}
+
+.box .line-18 {
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 949px;
+  width: 1120px;
+}
+
+.box .names {
+  height: 29px;
+  left: 87px;
+  position: absolute;
+  top: 18px;
+  width: 186px;
+}
+
+.box .fiona-stewart {
+  height: 24px;
+  left: 88px;
+  position: absolute;
+  top: 114px;
+  width: 199px;
+}
+
+.box .alexander-del-greco {
+  height: 24px;
+  left: 84px;
+  position: absolute;
+  top: 166px;
+  width: 303px;
+}
+
+.box .ark-lu {
+  height: 24px;
+  left: 85px;
+  position: absolute;
+  top: 219px;
+  width: 93px;
+}
+
+.box .jasmine-fan {
+  height: 24px;
+  left: 85px;
+  position: absolute;
+  top: 266px;
+  width: 180px;
+}
+
+.box .angie-kwon {
+  height: 30px;
+  left: 85px;
+  position: absolute;
+  top: 315px;
+  width: 174px;
+}
+
+.box .drake-roth {
+  height: 24px;
+  left: 88px;
+  position: absolute;
+  top: 367px;
+  width: 158px;
+}
+
+.box .lucy-tobier {
+  height: 31px;
+  left: 88px;
+  position: absolute;
+  top: 417px;
+  width: 167px;
+}
+
+.box .anya-tang {
+  height: 30px;
+  left: 85px;
+  position: absolute;
+  top: 467px;
+  width: 151px;
+}
+
+.box .nina-zhuo {
+  height: 24px;
+  left: 88px;
+  position: absolute;
+  top: 514px;
+  width: 149px;
+}
+
+.box .elpiniki-tsapatsaris {
+  height: 30px;
+  left: 88px;
+  position: absolute;
+  top: 566px;
+  width: 271px;
+}
+
+.box .louis-luo {
+  height: 24px;
+  left: 88px;
+  position: absolute;
+  top: 715px;
+  width: 139px;
+}
+
+.box .minwoo-han {
+  height: 24px;
+  left: 88px;
+  position: absolute;
+  top: 616px;
+  width: 180px;
+}
+
+.box .rose-gotlieb {
+  height: 24px;
+  left: 88px;
+  position: absolute;
+  top: 766px;
+  width: 184px;
+}
+
+.box .sherri-hong {
+  height: 30px;
+  left: 86px;
+  position: absolute;
+  top: 666px;
+  width: 172px;
+}
+
+.box .sally-rogers {
+  height: 31px;
+  left: 86px;
+  position: absolute;
+  top: 814px;
+  width: 181px;
+}
+
+.box .section-editor {
+  height: 24px;
+  left: 565px;
+  position: absolute;
+  top: 318px;
+  width: 204px;
+}
+
+.box .section-editor-2 {
+  height: 24px;
+  left: 565px;
+  position: absolute;
+  top: 517px;
+  width: 204px;
+}
+
+.box .section-editor-3 {
+  height: 24px;
+  left: 565px;
+  position: absolute;
+  top: 417px;
+  width: 204px;
+}
+
+.box .section-editor-4 {
+  height: 24px;
+  left: 565px;
+  position: absolute;
+  top: 616px;
+  width: 204px;
+}
+
+.box .section-editor-5 {
+  height: 24px;
+  left: 565px;
+  position: absolute;
+  top: 367px;
+  width: 204px;
+}
+
+.box .section-editor-6 {
+  height: 24px;
+  left: 565px;
+  position: absolute;
+  top: 566px;
+  width: 204px;
+}
+
+.box .section-editor-7 {
+  height: 24px;
+  left: 565px;
+  position: absolute;
+  top: 467px;
+  width: 204px;
+}
+
+.box .section-editor-8 {
+  height: 24px;
+  left: 565px;
+  position: absolute;
+  top: 666px;
+  width: 204px;
+}
+
+.box .unassigned {
+  height: 30px;
+  left: 567px;
+  position: absolute;
+  top: 266px;
+  width: 171px;
+}
+
+.box .upper-editorial {
+  height: 30px;
+  left: 567px;
+  position: absolute;
+  top: 113px;
+  width: 312px;
+}
+
+.box .upper-editorial-2 {
+  height: 30px;
+  left: 567px;
+  position: absolute;
+  top: 165px;
+  width: 312px;
+}
+
+.box .upper-editorial-3 {
+  height: 30px;
+  left: 567px;
+  position: absolute;
+  top: 216px;
+  width: 312px;
+}
+
+.box .contributing-editor {
+  height: 30px;
+  left: 565px;
+  position: absolute;
+  top: 715px;
+  width: 276px;
+}
+
+.box .contributing-editor-2 {
+  height: 30px;
+  left: 565px;
+  position: absolute;
+  top: 766px;
+  width: 276px;
+}
+
+.box .contributing-editor-3 {
+  height: 30px;
+  left: 565px;
+  position: absolute;
+  top: 814px;
+  width: 276px;
+}
+
+.box .roles {
+  height: 28px;
+  left: 560px;
+  position: absolute;
+  top: 20px;
+  width: 149px;
+}
+
+.box .ellipse-2 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 261px;
+  width: 32px;
+}
+
+.box .ellipse-3 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 311px;
+  width: 32px;
+}
+
+.box .ellipse-4 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 510px;
+  width: 32px;
+}
+
+.box .ellipse-5 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 410px;
+  width: 32px;
+}
+
+.box .ellipse-6 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 610px;
+  width: 32px;
+}
+
+.box .ellipse-7 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 360px;
+  width: 32px;
+}
+
+.box .ellipse-8 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 560px;
+  width: 32px;
+}
+
+.box .ellipse-9 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 460px;
+  width: 32px;
+}
+
+.box .ellipse-10 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 660px;
+  width: 32px;
+}
+
+.box .ellipse-11 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 709px;
+  width: 32px;
+}
+
+.box .ellipse-12 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 759px;
+  width: 32px;
+}
+
+.box .ellipse-13 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 810px;
+  width: 32px;
+}
+
+.box .ellipse-14 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 808px;
+  width: 32px;
+}
+
+.box .ellipse-15 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 110px;
+  width: 32px;
+}
+
+.box .ellipse-16 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 162px;
+  width: 32px;
+}
+
+.box .ellipse-17 {
+  height: 32px;
+  left: 514px;
+  position: absolute;
+  top: 212px;
+  width: 32px;
+}
+
+.box .add-user {
+  height: 38px;
+  left: 34px;
+  position: absolute;
+  top: 60px;
+  width: 195px;
+}
+
+.box .add-user-2 {
+  height: 24px;
+  left: 50px;
+  position: absolute;
+  top: 7px;
+  width: 140px;
+}
+
+.box .img-wrapper {
+  background-image: url(../../../static/img/ellipse-31-8.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 32px;
+}
+
+.box .img-2 {
+  height: 11px;
+  left: 11px;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+
+.box .add-role {
+  height: 38px;
+  left: 514px;
+  position: absolute;
+  top: 59px;
+  width: 194px;
+}
+
+.box .add-role-2 {
+  height: 24px;
+  left: 50px;
+  position: absolute;
+  top: 7px;
+  width: 139px;
+}
+
+.box .div {
+  background-image: url(../../../static/img/ellipse-31-7.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 32px;
+}
+
+.box .right-panel {
+  height: 980px;
+  left: 1120px;
+  position: absolute;
+  top: 0;
+  width: 530px;
+}
+
+.box .overlap-2 {
+  background-image: url(../../../static/img/rectangle-4.png);
+  background-size: 100% 100%;
+  height: 980px;
+  position: relative;
+  width: 500px;
+}
+
+.box .upper-editorial-4 {
+  height: 30px;
+  left: 88px;
+  position: absolute;
+  top: 37px;
+  width: 327px;
+}
+
+.box .ellipse-18 {
+  height: 32px;
+  left: 36px;
+  position: absolute;
+  top: 33px;
+  width: 32px;
+}
+
+.box .section-editor-9 {
+  height: 24px;
+  left: 87px;
+  position: absolute;
+  top: 500px;
+  width: 214px;
+}
+
+.box .ellipse-19 {
+  height: 32px;
+  left: 36px;
+  position: absolute;
+  top: 496px;
+  width: 32px;
+}
+
+.box .contributing-editor-4 {
+  height: 30px;
+  left: 87px;
+  position: absolute;
+  top: 755px;
+  width: 291px;
+}
+
+.box .ellipse-20 {
+  height: 32px;
+  left: 36px;
+  position: absolute;
+  top: 751px;
+  width: 32px;
+}
+
+.box .add-room-right {
+  height: 38px;
+  left: 154px;
+  position: absolute;
+  top: 426px;
+  width: 213px;
+}
+
+.box .add-room {
+  height: 24px;
+  left: 49px;
+  position: absolute;
+  top: 7px;
+  width: 157px;
+}
+
+.box .overlap-group-2 {
+  background-image: url(../../../static/img/ellipse-31.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 32px;
+}
+
+.box .img-3 {
+  height: 10px;
+  left: 11px;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+
+.box .overlap-3 {
+  height: 38px;
+  left: 154px;
+  position: absolute;
+  top: 803px;
+  width: 209px;
+}
+
+.box .add-room-right-2 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 209px;
+}
+
+.box .add-room-2 {
+  height: 24px;
+  left: 47px;
+  position: absolute;
+  top: 7px;
+  width: 157px;
+}
+
+.box .ellipse-21 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 32px;
+}
+
+.box .img-4 {
+  height: 10px;
+  left: 11px;
+  position: absolute;
+  top: 13px;
+  width: 10px;
+}
+
+.box .add-role-right {
+  height: 38px;
+  left: 36px;
+  position: absolute;
+  top: 870px;
+  width: 191px;
+}
+
+.box .add-role-3 {
+  height: 24px;
+  left: 47px;
+  position: absolute;
+  top: 7px;
+  width: 139px;
+}
+
+.box .WSRN-big-room {
+  height: 30px;
+  left: 117px;
+  position: absolute;
+  top: 553px;
+  width: 251px;
+}
+
+.box .sun-pm-pm {
+  height: 30px;
+  left: 118px;
+  position: absolute;
+  top: 598px;
+  width: 334px;
+}
+
+.box .small-craft-room {
+  height: 24px;
+  left: 119px;
+  position: absolute;
+  top: 644px;
+  width: 266px;
+}
+
+.box .sun-pm-pm-2 {
+  height: 30px;
+  left: 119px;
+  position: absolute;
+  top: 690px;
+  width: 334px;
+}
+
+.box .pencil-wrapper {
+  background-image: url(../../../static/img/ellipse-31.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 69px;
+  position: absolute;
+  top: 639px;
+  width: 32px;
+}
+
+.box .pencil {
+  height: 20px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.box .overlap-4 {
+  background-image: url(../../../static/img/ellipse-31.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 69px;
+  position: absolute;
+  top: 553px;
+  width: 32px;
+}
+
+.box .WSRN-big-room-2 {
+  height: 30px;
+  left: 117px;
+  position: absolute;
+  top: 90px;
+  width: 251px;
+}
+
+.box .sun-pm-pm-3 {
+  height: 30px;
+  left: 118px;
+  position: absolute;
+  top: 135px;
+  width: 334px;
+}
+
+.box .overlap-5 {
+  background-image: url(../../../static/img/ellipse-31.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 68px;
+  position: absolute;
+  top: 86px;
+  width: 32px;
+}
+
+.box .danawell-connector {
+  height: 24px;
+  left: 120px;
+  position: absolute;
+  top: 325px;
+  width: 309px;
+}
+
+.box .sun-pm-pm-4 {
+  height: 30px;
+  left: 119px;
+  position: absolute;
+  top: 370px;
+  width: 334px;
+}
+
+.box .overlap-6 {
+  background-color: #e2e2df;
+  border-radius: 16px;
+  height: 32px;
+  left: 69px;
+  position: absolute;
+  top: 319px;
+  width: 32px;
+}
+
+.box .small-craft-room-2 {
+  height: 24px;
+  left: 118px;
+  position: absolute;
+  top: 184px;
+  width: 266px;
+}
+
+.box .sun-pm {
+  height: 30px;
+  left: 118px;
+  position: absolute;
+  top: 230px;
+  width: 355px;
+}
+
+.box .thu-pm-am {
+  height: 30px;
+  left: 117px;
+  position: absolute;
+  top: 275px;
+  width: 328px;
+}
+
+.box .overlap-7 {
+  background-image: url(../../../static/img/ellipse-31.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 68px;
+  position: absolute;
+  top: 181px;
+  width: 32px;
+}
+
+.box .left-panel {
+  background-image: url(../../../static/img/rectangle-5.svg);
+  background-size: 100% 100%;
+  height: 980px;
+  left: 0;
+  position: absolute;
+  top: 100px;
+  width: 300px;
+}
+
+.box .users {
+  height: 48px;
+  left: 33px;
+  position: absolute;
+  top: 17px;
+  width: 167px;
+}
+
+.box .users-2 {
+  height: 23px;
+  left: 83px;
+  position: absolute;
+  top: 12px;
+  width: 81px;
+}
+
+.box .img-5 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.box .audit {
+  height: 48px;
+  left: 34px;
+  position: absolute;
+  top: 87px;
+  width: 159px;
+}
+
+.box .audit-2 {
+  height: 24px;
+  left: 79px;
+  position: absolute;
+  top: 12px;
+  width: 77px;
+}
+
+.box .import {
+  height: 48px;
+  left: 34px;
+  position: absolute;
+  top: 157px;
+  width: 180px;
+}
+
+.box .import-2 {
+  height: 30px;
+  left: 82px;
+  position: absolute;
+  top: 12px;
+  width: 95px;
+}
+
+.box .requests {
+  height: 48px;
+  left: 34px;
+  position: absolute;
+  top: 227px;
+  width: 220px;
+}
+
+.box .requests-2 {
+  height: 30px;
+  left: 82px;
+  position: absolute;
+  top: 12px;
+  width: 134px;
+}
+
+.box .spaceman {
+  height: 56px;
+  left: 34px;
+  position: absolute;
+  top: 901px;
+  width: 220px;
+}
+
+.box .spaceman-by-SCCS {
+  height: 46px;
+  left: 99px;
+  position: absolute;
+  top: 9px;
+  width: 118px;
+}
+
+.box .rocket {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 48px;
+}
+
+.box .top-panel {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1924px;
+}
+
+.box .overlap-8 {
+  background-image: url(../../../static/img/rectangle-2.svg);
+  background-size: 100% 100%;
+  height: 108px;
+  left: -4px;
+  position: relative;
+  top: -2px;
+  width: 1928px;
+}
+
+.box .swarthmore-review {
+  height: 36px;
+  left: 117px;
+  position: absolute;
+  top: 34px;
+  width: 459px;
+}
+
+.box .menu {
+  height: 48px;
+  left: 37px;
+  position: absolute;
+  top: 28px;
+  width: 48px;
+}
+
+.box .alexander-del-greco-2 {
+  height: 24px;
+  left: 1384px;
+  position: absolute;
+  top: 40px;
+  width: 313px;
+}
+
+.box .logout {
+  height: 48px;
+  left: 1734px;
+  position: absolute;
+  top: 28px;
+  width: 168px;
+}
+
+.box .logout-2 {
+  height: 30px;
+  left: 63px;
+  position: absolute;
+  top: 12px;
+  width: 103px;
+}
