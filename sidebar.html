@@ -1,0 +1,60 @@
+<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
+<style type="text/css">
+	#sidebar{
+		position: relative;
+		background-color: #384F70;
+		color: #F1F0EF;
+		height: 100%;
+		width: 300px;
+		font-family: 'Raleway';font-size: 32px;
+		font-weight: 100;
+	}
+	#sidebar-menu{
+		display: grid;
+  		grid-template-columns: auto;
+  		height: 200px;
+		width: 100%;
+		grid-row-gap: 10px;
+		padding-top: 10px;
+	}
+	#sidebar-footer{
+		position: absolute;
+  		bottom: 30px;
+	}
+	.sidebar-item{
+		height: 48px;
+		display: inline-flex;
+	}
+	#sidebar h1{
+		font-size: 32px;
+		margin-top: 5px;
+	}
+	#sidebar h2{
+		font-size: 24px;
+		margin-top: -3px;
+		margin-left: 10px;
+		text-align: right;
+	}
+	#sidebar img {
+		width: 48px;
+		height: 48px;
+		margin-left: 40px;
+		margin-right: 40px;
+	}
+	* {
+  margin: 0;
+  padding: 0;
+}
+
+</style>
+<div id="sidebar">
+	<div id="sidebar-menu">
+		<div id="sidebar-users" class="sidebar-item"><img src="users.png"><h1>Users</h1></div>
+		<div id="sidebar-audit" class="sidebar-item"><img src="audit.png"><h1>Audit</h1></div>
+		<div id="sidebar-import" class="sidebar-item"><img src="import.png"><h1>Import</h1></div>
+		<div id="sidebar-requests" class="sidebar-item"><img src="requests.png"><h1>Requests</h1></div>
+	</div>
+	<div id="sidebar-footer">
+		<div id="sidebar-requests" class="sidebar-item"><img src="rocket.png"><h2>spaceman<br>by SCCS</h2></div>
+	</div>
+</div>
