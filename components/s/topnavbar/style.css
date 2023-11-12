@@ -1,0 +1,117 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  padding: 10px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  color: #2A2F37;
+  background-color: #E2E2DF;
+  transition: margin-left .5s;
+}
+
+.topnav {
+  background-color: #2B3C55;
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+
+#clubname a {
+  color: #F1F0EF;
+  padding: 14px 16px;
+  font-family: 'Raleway', sans-serif;
+  text-decoration: none;
+  font-size: 48px;
+  display: flex;
+  align-items: center;
+  font-weight:800;
+}
+
+#studentname {
+  color: #F1F0EF;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+  font-weight:600;
+}
+
+#logout {
+  color: #F1F0EF;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+  font-weight:lighter;
+}
+
+.topnav a:hover {
+  /* idk */
+  background-color: rgb(202, 202, 202);
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 60;
+  left: 0;
+  background-color: #384F70;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  color: #F1F0EF;
+  font-size: 32px;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  padding: 10px 8px 8px 48px;
+  text-decoration: none;
+  display: block;
+  transition: 0.4s;
+  padding: 14px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight:200;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.right-group {
+  display: flex;
+  margin-left: auto;
+}
+
+#hamburger-icon {
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  padding: 10px 12px;
+  transition: transform 0.5s ease;
+}
+
+#hamburger-icon.active {
+  transform: rotate(90deg);
+}
+
+#logout-icon {
+  width: 40px;
+  height: 40px;
+  padding: 10px 12px;
+}
+

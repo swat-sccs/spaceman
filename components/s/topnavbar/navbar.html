@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap" rel="stylesheet">
+  </head>
+
+<div class="topnav">
+  <img src="images/hamburger_icon.png" alt="menu" id="hamburger-icon" onclick="openClose()">
+  <!-- left group : hamburger icon, club name  -->
+  <div class="left-group">
+    <div id="clubname">
+      <a href="#home">Swarthmore Review</a>
+    </div>
+  </div>
+  <!-- right group : user name, logout button -->
+  <div class="right-group">
+    <!-- user name -->
+    <div id="studentname">
+      <a>Alexander Del Greco</a>
+    </div>
+    <!-- logout button -->
+    <div id="logout">
+      <img src="images/logout_icon.png" alt="logout_icon" id="logout-icon">
+      <a>Logout</a>
+    </div>
+  </div>
+</div>
+
+<!-- icon containing hamburger menu -->
+<div id="sidenavbar" class="sidenav">
+  <a href="#users">User</a>
+  <a href="#audit">Audit</a>
+  <a href="#import">Import</a>
+  <a href="#requests">Requests</a>
+</div>
+
+<div id="main">
+  <p>content goes here</p>
+</div>
+
+<script>
+  // opens, closes sidebar with animation
+  function openClose() {
+    let sidebar = document.getElementById("sidenavbar");
+    let mainContent = document.getElementById("main");
+    let hamburgerIcon = document.getElementById("hamburger-icon")
+    
+    // closes sidebar, rotate icon
+    if (sidebar.style.width === "250px") {
+      sidebar.style.width = "0";
+      mainContent.style.marginLeft= "0";
+      hamburgerIcon.classList.remove('active');
+    } else { // opens sidebar, rotate icon
+      sidebar.style.width = "250px";
+      mainContent.style.marginLeft = "250px";
+      hamburgerIcon.classList.add('active');
+    }
+  }
+</script>
+
